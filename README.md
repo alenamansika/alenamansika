@@ -53,7 +53,13 @@ Interactive dashboard analyzing customer demographics, transaction behavior, cre
 #### 🚚 [Supply Chain Analysis & Dashboard](https://github.com/alenamansika/supply-chain-analysis)
 Independent hands-on project analyzing sales, product performance, quality, suppliers, and logistics through an interactive Looker Studio dashboard.
 
-#### 📑 [Excel Data Analytics Portfolio](https://github.com/alenamansika/Advanced_Excel_Global_Superstore_Analytics)
+#### 📑 [Excel Data Analytics Portfolio]
+(https://github.com/alenamansika/financial-statements-analysis-excel)
+(https://github.com/alenamansika/Portfolio-Sales-Dashboard-Excel)
+(https://github.com/alenamansika/DKI-Jakarta-Investment-Analysis)
+(https://github.com/alenamansika/Global-Energy-Consumption-Analysis-Excel)
+(https://github.com/alenamansika/Advanced_Excel_Global_Superstore_Analytics)
+(https://github.com/alenamansika/Global-Sales-Analysis-Intermediate-Excel)
 A collection of Excel-based data analytics projects covering data preparation, manipulation, statistical analysis, forecasting, visualization, and dashboard development.
 
 ---
