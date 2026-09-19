@@ -77,7 +77,7 @@ Analyzed secondary data from BPS to study poverty across six provinces in Java f
 Applied the **Cox Proportional Hazards (CPH)** method to analyze factors associated with gastritis recurrence time among university students. Contributed to sample collection, statistical analysis, interpretation, and research reporting.
 
 #### 🧮 Multiple Traveling Salesman Problem
-**Python**
+**Python & Visual Studio Code**
 
 Developed an undergraduate research project using a **Hybrid Ant Colony Optimization (ACO) and Symbiotic Organisms Search (SOS)** approach for parameter optimization in the Multiple Traveling Salesman Problem (mTSP).
 
